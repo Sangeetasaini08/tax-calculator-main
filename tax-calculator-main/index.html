@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tax Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="p-container">
+        <div class="top">
+            <div class="icons">
+            <span class="circle" ></span>
+            <span class="circle"></span>
+            <span class="circle"></span>
+        </div>
+        </div>
+        <div class="container">
+        <h1>Tax Calculator</h1>
+        <form id="taxForm">
+            <div class="form-group">
+                <label for="income">Enter gross annual income (₹)
+                    <div class="tooltip-container">
+                        <span class="tooltip-icon">
+                            <span>?</span>
+                        </span>
+                        <span class="tooltip-text">Gross annual income is your total salary in a year before any deductions.</span>
+                    </div>
+                  </label>
+                  <div class="input-group">
+                <input type="text" id="income" class="form-control" placeholder="Enter gross annual income">
+                <div class="error-icon tooltip" id="incomeError" >!</div>
+            </div>
+            </div>
+            <div class="form-group">
+                <label for="extraIncome">Enter extra income (₹)
+                    <div class="tooltip-container">
+                        <span class="tooltip-icon">
+                        <span>?</span>
+                    </span>
+                    <span class="tooltip-text" >enter your extra income which you earned other resources.</span>
+                </div>
+                </label>
+                <div class="input-group">
+                <input type="text" id="extraIncome" class="form-control" placeholder="enter extra income from other sources">
+                <div class="error-icon tooltip" id="extraIncomeError" >!</div>
+                   </div>
+
+
+                
+            </div>
+            <div class="form-group">
+                <label for="age">Enter age group
+                    <div class="tooltip-container">
+                    <span class="tooltip-icon">
+                    <span>?</span>
+                </span>
+                    <span class="tooltip-text"> enter age 
+                    </span>
+                </div>
+                </label>
+                <div class="input-group">
+                <select id="age" class="form-control">
+                    <option value="">Select Age Group</option>
+                    <option value="<40">&lt; 40</option>
+                    <option value=">=40&<60">≥ 40 &lt; 60</option>
+                    <option value=">=60">≥ 60</option>
+                </select>
+                <div class="error-icon tooltip" id="ageError">!</div>
+                   </div>
+            </div>
+            <div class="form-group">
+                <label for="deductions">Enter total applicable deductions (₹)
+                    <div class="tooltip-container">
+                        <span class="tooltip-icon">
+                    <span>?</span>
+                </span>
+                    <span class="tooltip-text" title="">amount which you have rest. </span>
+                </div>
+                </label>
+                <div class="input-group">
+                <input type="text" id="deductions" class="form-control" placeholder="Enter Deductions">
+                <div class="error-icon tooltip" id="deductionsError" >!</div>
+                    </div>
+                
+            </div>
+            
+            <button type="button" id="calculateBtn" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+    <!-- Modal -->
+    <div class="modal" id="resultModal">
+        <div class="modal-content">
+            <h1>Your overall income will be</h1>
+            <h2 id="modalIncome"></h2>
+            <p>after tax deduction</p>
+            <button id="closeModalBtn">Close</button>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
