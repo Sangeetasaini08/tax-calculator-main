@@ -1,4 +1,4 @@
-**Tax Calculator**
+**                                                                          **Tax Calculator****
 
 This repository contains a simple **tax calculator** web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.
 
