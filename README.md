@@ -11,17 +11,17 @@ Clone this repository to your local machine using Git or download the ZIP file.
 
 https://github.com/Sangeetasaini08/tax-calculator-main.git
 
-**<p> Navigate to the Directory</p>**
+**<p> Step 2 :  Navigate to the Directory</p>**
 Move into the project directory.
 cd tax-calculator-main
 
-**<p>Run the Application</p>**
+**<p> Step 3 : Run the Application</p>**
 Open index.html in your browser to view the tax calculator.
 
-**<p>Input Your Information</p>**
+**<p> Step 4 : Input Your Information</p>**
 Enter your income, deductions, filing status, and tax credits into the respective fields in the web app.
 
-**<p>View Tax Estimate</p>**
+**<p> Step 5 : View Tax Estimate</p>**
 After entering your information, click on the "Calculate Tax" button to view your estimated tax liability.
 
 **<h1 align="center" id="title">Technologies Used</h1>**
