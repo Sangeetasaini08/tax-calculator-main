@@ -25,13 +25,11 @@ Enter your income, deductions, filing status, and tax credits into the respectiv
 After entering your information, click on the "Calculate Tax" button to view your estimated tax liability.
 
 **<h1 align="center" id="title">Technologies Used</h1>**
-**<p>HTML</p>** Used for structuring the web page and input forms.
-**<p>CSS </P>** Used for styling and layout of the web page.
-**<p>JavaScript</p>** Used for implementing the tax calculation logic and user interactions.
+**<p> * HTML</p>** Used for structuring the web page and input forms.
+**<p> * CSS</P>** Used for styling and layout of the web page.
+**<p> * JavaScript</p>** Used for implementing the tax calculation logic and user interactions.
 
 **<h1 align="center" id="title"> Screenshots</h1>**
-![Screenshot 2024-04-14 225351](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/b81a623e-b427-4913-bff7-29098858338f)
-![Screenshot 2024-04-14 225359](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/128b09ba-b922-4d6e-8b38-55f8fe41c234)
 
 
 **<h1 align="center" id="title"> Contributing </h1>**
