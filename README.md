@@ -7,15 +7,13 @@
 **<p> step 1 Clone the Repository</p>**
   Clone this repository to your local machine using Git or download the ZIP file.
 
-bash
-Copy code
-git clone https://github.com/your-username/tax-calculator.git
-Navigate to the Directory: Move into the project directory.
+**<p> step 2 Navigate to the Directory </p>**
+Move into the project directory.
 
-bash
-Copy code
 cd tax-calculator
-Open in Visual Studio Code: Open the project folder in Visual Studio Code (or any other code editor of your choice).
+
+**<p> step 3 </p>**
+
 
 Run the Application: Open the index.html file in your web browser or use a local development server such as Live Server extension in Visual Studio Code.
 
