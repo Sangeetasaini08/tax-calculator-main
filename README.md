@@ -30,6 +30,11 @@ After entering your information, click on the "Calculate Tax" button to view you
 **<p> * JavaScript</p>** Used for implementing the tax calculation logic and user interactions.
 
 **<h1 align="center" id="title"> Screenshots</h1>**
+![Screenshot 2024-04-14 225359](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/7a0b72d6-bf57-40df-a0c9-017c9b2ce3ce)
+![Screenshot 2024-04-14 225351](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/494b7517-852d-4e83-8e85-e1260883ecf4)
+![Screenshot 2024-04-14 225835](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/2b2ea3eb-9653-447e-a8c9-33b0918f0bd6)
+![Screenshot 2024-04-14 225840](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/d3d05400-21cf-489a-b05e-d457e2ad7137)
+
 
 
 **<h1 align="center" id="title"> Contributing </h1>**
