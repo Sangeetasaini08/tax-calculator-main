@@ -29,7 +29,7 @@ After entering your information, click on the "Calculate Tax" button to view you
 **<p>CSS**: Used for styling and layout of the web page.</p>
 **<p>JavaScript**: Used for implementing the tax calculation logic and user interactions.</p>
 
-**<h1 align="center" id="title">Screenshot</h1>**
+**<h1 align="center" id="title">Screenshots</h1>**
 
 ![Screenshot 2024-04-14 225359](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/7374a172-8454-4b1d-86a8-d95f63ec88fe)
 ![Screenshot 2024-04-14 225351](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/254787d7-860c-4f7b-9173-19f7cb8da892)
