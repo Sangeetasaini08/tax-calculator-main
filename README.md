@@ -25,9 +25,9 @@ Enter your income, deductions, filing status, and tax credits into the respectiv
 After entering your information, click on the "Calculate Tax" button to view your estimated tax liability.
 
 **<h2>Technologies Used**</h2>
-*HTML: Used for structuring the web page and input forms.
-*CSS: Used for styling and layout of the web page.
-*JavaScript: Used for implementing the tax calculation logic and user interactions.
+<p>*HTML: Used for structuring the web page and input forms.</p>
+<p>*CSS: Used for styling and layout of the web page.</p>
+<p>*JavaScript: Used for implementing the tax calculation logic and user interactions.</p>
 
 **<h2> Screenshots:</h2>**
 
