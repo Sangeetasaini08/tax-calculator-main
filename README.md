@@ -30,11 +30,14 @@ After entering your information, click on the "Calculate Tax" button to view you
 **<p>JavaScript</p>** Used for implementing the tax calculation logic and user interactions.
 
 **<h1 align="center" id="title"> Screenshots</h1>**
+![Screenshot 2024-04-14 225351](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/b81a623e-b427-4913-bff7-29098858338f)
+![Screenshot 2024-04-14 225359](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/128b09ba-b922-4d6e-8b38-55f8fe41c234)
 
-Contributing
+
+**<h1 align="center" id="title"> Contributing </h1>**
 Contributions are welcome! If you'd like to improve the tax calculator web app, feel free to open an issue or submit a pull request with your changes.
 
-Hosted Web App
+**<h1 align= "center" id = "title"> Hosted Web App </h1>**
 You can access the hosted version of the tax calculator web app here.
 
 
