@@ -41,7 +41,7 @@ After entering your information, click on the "Calculate Tax" button to view you
 **<h1 align="center" id="title">Contributing</h1>**
 Contributions are welcome! If you'd like to improve the tax calculator web app, feel free to open an issue or submit a pull request with your changes.
 
-**<h2 align ="center" id="title">Hosted Web App</h2>**
+**<h1 align ="center" id="title">Hosted Web App</h1>**
 You can access the hosted version of the tax calculator web app here.
 
 
