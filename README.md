@@ -9,12 +9,9 @@ To run the tax calculator web app locally on your machine, follow these steps:
 https://github.com/Sangeetasaini08/tax-calculator-main.git
 
 **Navigate to the Directory**: Move into the project directory.
+cd tax-calculator-main
 
-**Open in Visual Studio Code**: Open the project folder in Visual Studio Code (or any other code editor of your choice).
-
-**Run the Application**: Open the **index.html** file in your web browser or use a local development server such as Live Server extension in Visual Studio Code.
-
-code .
+**Run the Application**: Open index.html in your browser to view the tax calculator.
 **Input Your Information**: Enter your income, deductions, filing status, and tax credits into the respective fields in the web app.
 
 **View Tax Estimate**: After entering your information, click on the "Calculate Tax" button to view your estimated tax liability.
