@@ -6,7 +6,7 @@
 To run the tax calculator web app locally on your machine, follow these steps:
 
 
-**<p>Clone the Repository:</p>**
+**<p> Step 1 : Clone the Repository:</p>**
 Clone this repository to your local machine using Git or download the ZIP file.
 
 https://github.com/Sangeetasaini08/tax-calculator-main.git
