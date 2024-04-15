@@ -1,4 +1,4 @@
-**                                                                       **Tax Calculator****
+**<h1 align="center" id="title">Tax Calculator</h1>**
 
 This repository contains a simple **tax calculator** web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.
 
@@ -21,6 +21,11 @@ cd tax-calculator-main
 **HTML**: Used for structuring the web page and input forms.
 **CSS**: Used for styling and layout of the web page.
 **JavaScript**: Used for implementing the tax calculation logic and user interactions.
+
+**<h2>Project Screenshots:</h2>**
+
+![Screenshot 2024-04-14 194605](https://github.com/Sangeetasaini08/tax-calculator-main/assets/167005226/1bcb5267-cc5a-4281-8797-29c1b7c6dde0)
+
 
 **Contributing**
 Contributions are welcome! If you'd like to improve the tax calculator web app, feel free to open an issue or submit a pull request with your changes.
