@@ -1,6 +1,6 @@
 **<h1 align="center" id="title">Tax Calculator</h1>**
 
-<p>This repository contains a simple **tax calculator** web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.</p>
+<p>This repository contains a simple tax calculator web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.</p>
 
 **<h1 align= "center" id="title">How to Run Locally</h1>**
 To run the tax calculator web app locally on your machine, follow these steps:
