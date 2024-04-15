@@ -1,42 +1,43 @@
-**Tax calculator**
-A tax calculator is a tool used to estimate how much tax an individual or entity owes based on their income, deductions, credits, and other factors. It's particularly useful for individuals, businesses, or tax professionals to plan their finances, prepare for tax filing, or understand how certain financial decisions may impact their tax liability.
-## Features
-    The tax calculator described in the specifications utilizes several features to provide a functional and user-friendly experience. Here are the key features used in the tax calculator:
+**Tax Calculator**
+This repository contains a simple **tax calculator** web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.
 
-- **Input Fields**: Users can input their gross annual income, extra income, deductions, and select their age group using dropdown options.
-- **Validation**: Ensure all fields are filled with valid numeric values for accurate calculations.
-- **Tax Calculation Logic** : The tax calculation logic follows a specific formula based on the user's inputs. It calculates the taxable income and determines the tax amount based on the user's age group and income level.
-- **Modal Display**: View calculated total income and tax in a modal with comma-separated numbers for readability.
-- **Responsive Design**: Works seamlessly across devices for a convenient user experience.
-- **Submit Button**: The submit button triggers the tax calculation process when clicked. It validates user inputs and displays the calculated tax amount in a modal popup.
+**How to Run Locally**
+To run the tax calculator web app locally on your machine, follow these steps:
+
+**Clone the Repository**: Clone this repository to your local machine using Git or download the ZIP file.
+
+bash
+git clone https://github.com//tax-calculator.git
+
+**Navigate to the Directory**: Move into the project directory.
+
+bash
+Copy code
+cd tax-calculator
+**Open in Visual Studio Code**: Open the project folder in Visual Studio Code (or any other code editor of your choice).
+
+**Run the Application**: Open the index.html file in your web browser or use a local development server such as Live Server extension in Visual Studio Code.
+
+bash
+Copy code
+code .
+Input Your Information: Enter your income, deductions, filing status, and tax credits into the respective fields in the web app.
+
+View Tax Estimate: After entering your information, click on the "Calculate Tax" button to view your estimated tax liability.
+
+**Technologies Used**
+**HTML**: Used for structuring the web page and input forms.
+**CSS**: Used for styling and layout of the web page.
+**JavaScript**: Used for implementing the tax calculation logic and user interactions.
+
+**Contributing**
+Contributions are welcome! If you'd like to improve the tax calculator web app, feel free to open an issue or submit a pull request with your changes.
+
+**Hosted Web App**
+You can access the hosted version of the tax calculator web app here.
 
 
-## Tech and Tool used Stack
-
-HTML
-CSS
-JavaScript
-
-## How Tax is Calculated
-Tax calculation follows these criteria:
-
-No tax if overall income (after deductions) is ≤ ₹800,000.
-If income exceeds ₹800,000:
-For individuals under 40 years: 30% of income over ₹800,000 is taxed.
-For individuals aged 40 to 60 years: 40% of income over ₹800,000 is taxed.
-For individuals aged 60 or above: 10% of income over ₹800,000 is taxed.
 
 
 
-
-<h2>Project Screenshots:</h2>
-### RESULT
-<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2024-04-14 225359.png" width="600" height="300">
-<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2024-04-14 225351.png" width="600" height="300">
-
-
-<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2024-04-14 225359.png" width="600" height="300">
-<img src="C:\Users\DELL\Pictures\Screenshots\Screenshot 2024-04-14 225359.png" width="600" height="300">
-
-<img src = "c:\Users\DELL\Pictures\Screenshots\Screenshot 2024-04-14 194605.png">
 
