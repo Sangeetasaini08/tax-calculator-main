@@ -1,10 +1,11 @@
-<h1 align="center" id="title">Tax Calculator </h1>
-This repository contains a simple tax calculator web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.
+**<h1 align="center" id="title">Tax Calculator </h1>**
+<p>This repository contains a simple tax calculator web application built using HTML, CSS, and JavaScript. The application allows users to estimate their tax liability based on their income, deductions, filing status, and tax credits.</p>
 
-How to Run Locally
-To run the tax calculator web app locally on your machine, follow these steps:
+**<h1 align="center" id="title">How to Run Locally</h1>**
+<p>To run the tax calculator web app locally on your machine, follow these steps:</p>
 
-Clone the Repository: Clone this repository to your local machine using Git or download the ZIP file.
+**<p> step 1 Clone the Repository</p>**
+  Clone this repository to your local machine using Git or download the ZIP file.
 
 bash
 Copy code
